@@ -1,0 +1,12 @@
+
+---
+  user:
+    name: john
+    location:
+     city: Doha
+     country: Qatar
+    Age: 32
+    roles:
+     - admin
+     - user
+    # - denotes lists 

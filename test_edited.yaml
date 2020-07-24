@@ -1,0 +1,9 @@
+user:
+  Age: 32
+  location:
+    city: bangalore
+    country: Qatar
+  name: john
+  roles:
+  - admin
+  - user
